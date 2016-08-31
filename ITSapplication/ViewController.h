@@ -9,5 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
-
+{
+   
+    int timerCounter;
+    NSTimer *timer;
+}
 @end

@@ -7,6 +7,55 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C664B121C61077F00761760 /* backgroundgame.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C664B0A1C61077F00761760 /* backgroundgame.png */; settings = {ASSET_TAGS = (); }; };
+		0C664B131C61077F00761760 /* bg.gif in Resources */ = {isa = PBXBuildFile; fileRef = 0C664B0B1C61077F00761760 /* bg.gif */; settings = {ASSET_TAGS = (); }; };
+		0C664B141C61077F00761760 /* car.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C664B0C1C61077F00761760 /* car.png */; settings = {ASSET_TAGS = (); }; };
+		0C664B151C61077F00761760 /* car2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C664B0D1C61077F00761760 /* car2.png */; settings = {ASSET_TAGS = (); }; };
+		0C664B161C61077F00761760 /* fruit1.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C664B0E1C61077F00761760 /* fruit1.png */; settings = {ASSET_TAGS = (); }; };
+		0C664B171C61077F00761760 /* fruit2.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C664B0F1C61077F00761760 /* fruit2.png */; settings = {ASSET_TAGS = (); }; };
+		0C664B181C61077F00761760 /* fruit3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C664B101C61077F00761760 /* fruit3.png */; settings = {ASSET_TAGS = (); }; };
+		0C664B191C61077F00761760 /* fruit4.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C664B111C61077F00761760 /* fruit4.png */; settings = {ASSET_TAGS = (); }; };
+		0C94D8D11C5EDF76009AC95D /* SignInViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94D8D01C5EDF76009AC95D /* SignInViewController.m */; };
+		0C94D8D41C5EDF88009AC95D /* SignUpViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94D8D31C5EDF88009AC95D /* SignUpViewController.m */; };
+		0C94D8D71C5EE094009AC95D /* DataModel.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 0C94D8D51C5EE094009AC95D /* DataModel.xcdatamodeld */; };
+		0C94D8DA1C5EE0BF009AC95D /* CoreDataHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94D8D91C5EE0BF009AC95D /* CoreDataHelper.m */; };
+		0C94D8DD1C5EE24A009AC95D /* Users.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94D8DC1C5EE24A009AC95D /* Users.m */; };
+		0C94E3661C57AC1700783C87 /* AboutTheProjectViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E3651C57AC1700783C87 /* AboutTheProjectViewController.m */; };
+		0C94E3691C57B76700783C87 /* background.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3671C57B76700783C87 /* background.png */; };
+		0C94E36A1C57B76700783C87 /* background2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3681C57B76700783C87 /* background2.jpg */; };
+		0C94E36D1C57BCD000783C87 /* MenuViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E36C1C57BCD000783C87 /* MenuViewController.m */; };
+		0C94E3701C57BD1F00783C87 /* LearningMaterialViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E36F1C57BD1F00783C87 /* LearningMaterialViewController.m */; };
+		0C94E3731C57BD3100783C87 /* CollegeLinksViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E3721C57BD3100783C87 /* CollegeLinksViewController.m */; };
+		0C94E3761C57BD4D00783C87 /* EntertainmentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E3751C57BD4D00783C87 /* EntertainmentViewController.m */; };
+		0C94E3791C57BD5900783C87 /* GamingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E3781C57BD5900783C87 /* GamingViewController.m */; };
+		0C94E37C1C57BD6600783C87 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E37B1C57BD6600783C87 /* SettingsViewController.m */; };
+		0C94E3821C57BE0600783C87 /* GameOverViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E3811C57BE0600783C87 /* GameOverViewController.m */; };
+		0C94E3851C57BE1200783C87 /* MusicPlayerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E3841C57BE1200783C87 /* MusicPlayerViewController.m */; };
+		0C94E3881C57BE2100783C87 /* ObjectiveCViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E3871C57BE2100783C87 /* ObjectiveCViewController.m */; };
+		0C94E38E1C57BE4600783C87 /* CProgrammingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E38D1C57BE4600783C87 /* CProgrammingViewController.m */; };
+		0C94E3911C57BEAF00783C87 /* iosViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C94E3901C57BEAF00783C87 /* iosViewController.m */; };
+		0C94E3A41C57D03D00783C87 /* Bhaag Milkha Bhaag - Mastano ka jhund.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3921C57D03D00783C87 /* Bhaag Milkha Bhaag - Mastano ka jhund.mp3 */; };
+		0C94E3A51C57D03D00783C87 /* Chennai Express-Kashmir tu main Kanyakumari.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3931C57D03D00783C87 /* Chennai Express-Kashmir tu main Kanyakumari.mp3 */; };
+		0C94E3A61C57D03D00783C87 /* Jannat-Tujhe Sochta hu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3941C57D03D00783C87 /* Jannat-Tujhe Sochta hu.mp3 */; };
+		0C94E3A71C57D03D00783C87 /* Jannat - Jannatein Kahan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3951C57D03D00783C87 /* Jannat - Jannatein Kahan.mp3 */; };
+		0C94E3A81C57D03D00783C87 /* Murder2- Hale Dil.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3961C57D03D00783C87 /* Murder2- Hale Dil.mp3 */; };
+		0C94E3A91C57D03D00783C87 /* Murder-2 Aye Khuda.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3971C57D03D00783C87 /* Murder-2 Aye Khuda.mp3 */; };
+		0C94E3AA1C57D03D00783C87 /* Jeene Laga hu.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3981C57D03D00783C87 /* Jeene Laga hu.mp3 */; };
+		0C94E3AB1C57D03D00783C87 /* Rang Jo lagyo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3991C57D03D00783C87 /* Rang Jo lagyo.mp3 */; };
+		0C94E3AC1C57D03D00783C87 /* Shanghai - Duaa.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E39A1C57D03D00783C87 /* Shanghai - Duaa.mp3 */; };
+		0C94E3AD1C57D03D00783C87 /* Ishq Wala love.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E39B1C57D03D00783C87 /* Ishq Wala love.mp3 */; };
+		0C94E3AE1C57D03D00783C87 /* Vele - SOTY.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E39C1C57D03D00783C87 /* Vele - SOTY.mp3 */; };
+		0C94E3AF1C57D03D00783C87 /* Pani Da Rang.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E39D1C57D03D00783C87 /* Pani Da Rang.mp3 */; };
+		0C94E3B01C57D03D00783C87 /* Mar Jaaiyan .mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E39E1C57D03D00783C87 /* Mar Jaaiyan .mp3 */; };
+		0C94E3B11C57D03D00783C87 /* Soniye.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E39F1C57D03D00783C87 /* Soniye.mp3 */; };
+		0C94E3B21C57D03D00783C87 /* Mumkin Nahi.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3A01C57D03D00783C87 /* Mumkin Nahi.mp3 */; };
+		0C94E3B71C57DBEF00783C87 /* musicLogo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C94E3B61C57DBEF00783C87 /* musicLogo.png */; };
+		0C94E3B91C57DCFB00783C87 /* AVFoundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C94E3B81C57DCFB00783C87 /* AVFoundation.framework */; };
+		0C94E3BB1C57DD0A00783C87 /* MediaPlayer.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C94E3BA1C57DD0A00783C87 /* MediaPlayer.framework */; };
+		0C94E3BD1C57DD1B00783C87 /* AudioToolbox.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C94E3BC1C57DD1B00783C87 /* AudioToolbox.framework */; };
+		0C97EE5C1C5F70DC003C8BBC /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C97EE5B1C5F70DC003C8BBC /* CoreLocation.framework */; };
+		0C97EE5E1C5F70E5003C8BBC /* AddressBook.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C97EE5D1C5F70E5003C8BBC /* AddressBook.framework */; };
+		0C97EE601C5F70F3003C8BBC /* MapKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0C97EE5F1C5F70F3003C8BBC /* MapKit.framework */; };
 		0CAA4E111C56B122007B27F0 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CAA4E101C56B122007B27F0 /* Foundation.framework */; };
 		0CAA4E131C56B122007B27F0 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CAA4E121C56B122007B27F0 /* CoreGraphics.framework */; };
 		0CAA4E151C56B122007B27F0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CAA4E141C56B122007B27F0 /* UIKit.framework */; };
@@ -21,6 +70,11 @@
 		0CAA4E321C56B122007B27F0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0CAA4E141C56B122007B27F0 /* UIKit.framework */; };
 		0CAA4E3A1C56B122007B27F0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0CAA4E381C56B122007B27F0 /* InfoPlist.strings */; };
 		0CAA4E3C1C56B122007B27F0 /* ITSapplicationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 0CAA4E3B1C56B122007B27F0 /* ITSapplicationTests.m */; };
+		0CAA4E4B1C56B4E3007B27F0 /* college1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0CAA4E461C56B4E3007B27F0 /* college1.jpg */; };
+		0CAA4E4C1C56B4E3007B27F0 /* college2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0CAA4E471C56B4E3007B27F0 /* college2.jpg */; };
+		0CAA4E4D1C56B4E3007B27F0 /* logo.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CAA4E481C56B4E3007B27F0 /* logo.png */; };
+		0CAA4E4E1C56B4E3007B27F0 /* logo2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0CAA4E491C56B4E3007B27F0 /* logo2.jpg */; };
+		0CAA4E4F1C56B4E3007B27F0 /* logo3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0CAA4E4A1C56B4E3007B27F0 /* logo3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +88,71 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0C664B0A1C61077F00761760 /* backgroundgame.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = backgroundgame.png; path = ../../../backgroundgame.png; sourceTree = "<group>"; };
+		0C664B0B1C61077F00761760 /* bg.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; name = bg.gif; path = ../../../bg.gif; sourceTree = "<group>"; };
+		0C664B0C1C61077F00761760 /* car.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = car.png; path = ../../../car.png; sourceTree = "<group>"; };
+		0C664B0D1C61077F00761760 /* car2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = car2.png; path = ../../../car2.png; sourceTree = "<group>"; };
+		0C664B0E1C61077F00761760 /* fruit1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fruit1.png; path = ../../../fruit1.png; sourceTree = "<group>"; };
+		0C664B0F1C61077F00761760 /* fruit2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fruit2.png; path = ../../../fruit2.png; sourceTree = "<group>"; };
+		0C664B101C61077F00761760 /* fruit3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fruit3.png; path = ../../../fruit3.png; sourceTree = "<group>"; };
+		0C664B111C61077F00761760 /* fruit4.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fruit4.png; path = ../../../fruit4.png; sourceTree = "<group>"; };
+		0C94D8CF1C5EDF76009AC95D /* SignInViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignInViewController.h; sourceTree = "<group>"; };
+		0C94D8D01C5EDF76009AC95D /* SignInViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignInViewController.m; sourceTree = "<group>"; };
+		0C94D8D21C5EDF88009AC95D /* SignUpViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SignUpViewController.h; sourceTree = "<group>"; };
+		0C94D8D31C5EDF88009AC95D /* SignUpViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SignUpViewController.m; sourceTree = "<group>"; };
+		0C94D8D61C5EE094009AC95D /* DataModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = DataModel.xcdatamodel; sourceTree = "<group>"; };
+		0C94D8D81C5EE0BF009AC95D /* CoreDataHelper.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CoreDataHelper.h; sourceTree = "<group>"; };
+		0C94D8D91C5EE0BF009AC95D /* CoreDataHelper.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CoreDataHelper.m; sourceTree = "<group>"; };
+		0C94D8DB1C5EE24A009AC95D /* Users.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Users.h; sourceTree = "<group>"; };
+		0C94D8DC1C5EE24A009AC95D /* Users.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Users.m; sourceTree = "<group>"; };
+		0C94E3641C57AC1700783C87 /* AboutTheProjectViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AboutTheProjectViewController.h; sourceTree = "<group>"; };
+		0C94E3651C57AC1700783C87 /* AboutTheProjectViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AboutTheProjectViewController.m; sourceTree = "<group>"; };
+		0C94E3671C57B76700783C87 /* background.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = background.png; path = ../background.png; sourceTree = "<group>"; };
+		0C94E3681C57B76700783C87 /* background2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = background2.jpg; path = ../background2.jpg; sourceTree = "<group>"; };
+		0C94E36B1C57BCD000783C87 /* MenuViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MenuViewController.h; sourceTree = "<group>"; };
+		0C94E36C1C57BCD000783C87 /* MenuViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MenuViewController.m; sourceTree = "<group>"; };
+		0C94E36E1C57BD1F00783C87 /* LearningMaterialViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LearningMaterialViewController.h; sourceTree = "<group>"; };
+		0C94E36F1C57BD1F00783C87 /* LearningMaterialViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LearningMaterialViewController.m; sourceTree = "<group>"; };
+		0C94E3711C57BD3100783C87 /* CollegeLinksViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollegeLinksViewController.h; sourceTree = "<group>"; };
+		0C94E3721C57BD3100783C87 /* CollegeLinksViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollegeLinksViewController.m; sourceTree = "<group>"; };
+		0C94E3741C57BD4D00783C87 /* EntertainmentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EntertainmentViewController.h; sourceTree = "<group>"; };
+		0C94E3751C57BD4D00783C87 /* EntertainmentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EntertainmentViewController.m; sourceTree = "<group>"; };
+		0C94E3771C57BD5900783C87 /* GamingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GamingViewController.h; sourceTree = "<group>"; };
+		0C94E3781C57BD5900783C87 /* GamingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GamingViewController.m; sourceTree = "<group>"; };
+		0C94E37A1C57BD6600783C87 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		0C94E37B1C57BD6600783C87 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		0C94E3801C57BE0600783C87 /* GameOverViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameOverViewController.h; sourceTree = "<group>"; };
+		0C94E3811C57BE0600783C87 /* GameOverViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GameOverViewController.m; sourceTree = "<group>"; };
+		0C94E3831C57BE1200783C87 /* MusicPlayerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MusicPlayerViewController.h; sourceTree = "<group>"; };
+		0C94E3841C57BE1200783C87 /* MusicPlayerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MusicPlayerViewController.m; sourceTree = "<group>"; };
+		0C94E3861C57BE2100783C87 /* ObjectiveCViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjectiveCViewController.h; sourceTree = "<group>"; };
+		0C94E3871C57BE2100783C87 /* ObjectiveCViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjectiveCViewController.m; sourceTree = "<group>"; };
+		0C94E38C1C57BE4600783C87 /* CProgrammingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CProgrammingViewController.h; sourceTree = "<group>"; };
+		0C94E38D1C57BE4600783C87 /* CProgrammingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CProgrammingViewController.m; sourceTree = "<group>"; };
+		0C94E38F1C57BEAF00783C87 /* iosViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = iosViewController.h; sourceTree = "<group>"; };
+		0C94E3901C57BEAF00783C87 /* iosViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = iosViewController.m; sourceTree = "<group>"; };
+		0C94E3921C57D03D00783C87 /* Bhaag Milkha Bhaag - Mastano ka jhund.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Bhaag Milkha Bhaag - Mastano ka jhund.mp3"; path = "../../songs/Bhaag Milkha Bhaag - Mastano ka jhund.mp3"; sourceTree = "<group>"; };
+		0C94E3931C57D03D00783C87 /* Chennai Express-Kashmir tu main Kanyakumari.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Chennai Express-Kashmir tu main Kanyakumari.mp3"; path = "../../songs/Chennai Express-Kashmir tu main Kanyakumari.mp3"; sourceTree = "<group>"; };
+		0C94E3941C57D03D00783C87 /* Jannat-Tujhe Sochta hu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Jannat-Tujhe Sochta hu.mp3"; path = "../../songs/Jannat-Tujhe Sochta hu.mp3"; sourceTree = "<group>"; };
+		0C94E3951C57D03D00783C87 /* Jannat - Jannatein Kahan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Jannat - Jannatein Kahan.mp3"; path = "../../songs/Jannat - Jannatein Kahan.mp3"; sourceTree = "<group>"; };
+		0C94E3961C57D03D00783C87 /* Murder2- Hale Dil.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Murder2- Hale Dil.mp3"; path = "../../songs/Murder2- Hale Dil.mp3"; sourceTree = "<group>"; };
+		0C94E3971C57D03D00783C87 /* Murder-2 Aye Khuda.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Murder-2 Aye Khuda.mp3"; path = "../../songs/Murder-2 Aye Khuda.mp3"; sourceTree = "<group>"; };
+		0C94E3981C57D03D00783C87 /* Jeene Laga hu.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Jeene Laga hu.mp3"; path = "../../songs/Jeene Laga hu.mp3"; sourceTree = "<group>"; };
+		0C94E3991C57D03D00783C87 /* Rang Jo lagyo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Rang Jo lagyo.mp3"; path = "../../songs/Rang Jo lagyo.mp3"; sourceTree = "<group>"; };
+		0C94E39A1C57D03D00783C87 /* Shanghai - Duaa.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Shanghai - Duaa.mp3"; path = "../../songs/Shanghai - Duaa.mp3"; sourceTree = "<group>"; };
+		0C94E39B1C57D03D00783C87 /* Ishq Wala love.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Ishq Wala love.mp3"; path = "../../songs/Ishq Wala love.mp3"; sourceTree = "<group>"; };
+		0C94E39C1C57D03D00783C87 /* Vele - SOTY.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Vele - SOTY.mp3"; path = "../../songs/Vele - SOTY.mp3"; sourceTree = "<group>"; };
+		0C94E39D1C57D03D00783C87 /* Pani Da Rang.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Pani Da Rang.mp3"; path = "../../songs/Pani Da Rang.mp3"; sourceTree = "<group>"; };
+		0C94E39E1C57D03D00783C87 /* Mar Jaaiyan .mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Mar Jaaiyan .mp3"; path = "../../songs/Mar Jaaiyan .mp3"; sourceTree = "<group>"; };
+		0C94E39F1C57D03D00783C87 /* Soniye.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = Soniye.mp3; path = ../../songs/Soniye.mp3; sourceTree = "<group>"; };
+		0C94E3A01C57D03D00783C87 /* Mumkin Nahi.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = "Mumkin Nahi.mp3"; path = "../../songs/Mumkin Nahi.mp3"; sourceTree = "<group>"; };
+		0C94E3B61C57DBEF00783C87 /* musicLogo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = musicLogo.png; path = ../../songs/musicLogo.png; sourceTree = "<group>"; };
+		0C94E3B81C57DCFB00783C87 /* AVFoundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AVFoundation.framework; path = System/Library/Frameworks/AVFoundation.framework; sourceTree = SDKROOT; };
+		0C94E3BA1C57DD0A00783C87 /* MediaPlayer.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MediaPlayer.framework; path = System/Library/Frameworks/MediaPlayer.framework; sourceTree = SDKROOT; };
+		0C94E3BC1C57DD1B00783C87 /* AudioToolbox.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AudioToolbox.framework; path = System/Library/Frameworks/AudioToolbox.framework; sourceTree = SDKROOT; };
+		0C97EE5B1C5F70DC003C8BBC /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		0C97EE5D1C5F70E5003C8BBC /* AddressBook.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = AddressBook.framework; path = System/Library/Frameworks/AddressBook.framework; sourceTree = SDKROOT; };
+		0C97EE5F1C5F70F3003C8BBC /* MapKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MapKit.framework; path = System/Library/Frameworks/MapKit.framework; sourceTree = SDKROOT; };
 		0CAA4E0D1C56B122007B27F0 /* ITSapplication.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ITSapplication.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		0CAA4E101C56B122007B27F0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		0CAA4E121C56B122007B27F0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +172,11 @@
 		0CAA4E371C56B122007B27F0 /* ITSapplicationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ITSapplicationTests-Info.plist"; sourceTree = "<group>"; };
 		0CAA4E391C56B122007B27F0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		0CAA4E3B1C56B122007B27F0 /* ITSapplicationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ITSapplicationTests.m; sourceTree = "<group>"; };
+		0CAA4E461C56B4E3007B27F0 /* college1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = college1.jpg; path = ../college1.jpg; sourceTree = "<group>"; };
+		0CAA4E471C56B4E3007B27F0 /* college2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = college2.jpg; path = ../college2.jpg; sourceTree = "<group>"; };
+		0CAA4E481C56B4E3007B27F0 /* logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = logo.png; path = ../logo.png; sourceTree = "<group>"; };
+		0CAA4E491C56B4E3007B27F0 /* logo2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = logo2.jpg; path = ../logo2.jpg; sourceTree = "<group>"; };
+		0CAA4E4A1C56B4E3007B27F0 /* logo3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = logo3.jpg; path = ../logo3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +184,12 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C97EE601C5F70F3003C8BBC /* MapKit.framework in Frameworks */,
+				0C97EE5E1C5F70E5003C8BBC /* AddressBook.framework in Frameworks */,
+				0C97EE5C1C5F70DC003C8BBC /* CoreLocation.framework in Frameworks */,
+				0C94E3BD1C57DD1B00783C87 /* AudioToolbox.framework in Frameworks */,
+				0C94E3BB1C57DD0A00783C87 /* MediaPlayer.framework in Frameworks */,
+				0C94E3B91C57DCFB00783C87 /* AVFoundation.framework in Frameworks */,
 				0CAA4E131C56B122007B27F0 /* CoreGraphics.framework in Frameworks */,
 				0CAA4E151C56B122007B27F0 /* UIKit.framework in Frameworks */,
 				0CAA4E111C56B122007B27F0 /* Foundation.framework in Frameworks */,
@@ -79,9 +209,82 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0C94D8CE1C5EDF4F009AC95D /* Login */ = {
+			isa = PBXGroup;
+			children = (
+				0C94D8CF1C5EDF76009AC95D /* SignInViewController.h */,
+				0C94D8D01C5EDF76009AC95D /* SignInViewController.m */,
+				0C94D8D21C5EDF88009AC95D /* SignUpViewController.h */,
+				0C94D8D31C5EDF88009AC95D /* SignUpViewController.m */,
+				0C94D8D81C5EE0BF009AC95D /* CoreDataHelper.h */,
+				0C94D8D91C5EE0BF009AC95D /* CoreDataHelper.m */,
+				0C94D8D51C5EE094009AC95D /* DataModel.xcdatamodeld */,
+				0C94D8DB1C5EE24A009AC95D /* Users.h */,
+				0C94D8DC1C5EE24A009AC95D /* Users.m */,
+			);
+			name = Login;
+			sourceTree = "<group>";
+		};
+		0C94E37D1C57BD6D00783C87 /* Learning Material */ = {
+			isa = PBXGroup;
+			children = (
+				0C94E3861C57BE2100783C87 /* ObjectiveCViewController.h */,
+				0C94E3871C57BE2100783C87 /* ObjectiveCViewController.m */,
+				0C94E38C1C57BE4600783C87 /* CProgrammingViewController.h */,
+				0C94E38D1C57BE4600783C87 /* CProgrammingViewController.m */,
+				0C94E38F1C57BEAF00783C87 /* iosViewController.h */,
+				0C94E3901C57BEAF00783C87 /* iosViewController.m */,
+			);
+			name = "Learning Material";
+			sourceTree = "<group>";
+		};
+		0C94E37E1C57BDE800783C87 /* Entertainment */ = {
+			isa = PBXGroup;
+			children = (
+				0C94E3B61C57DBEF00783C87 /* musicLogo.png */,
+				0C94E3921C57D03D00783C87 /* Bhaag Milkha Bhaag - Mastano ka jhund.mp3 */,
+				0C94E3931C57D03D00783C87 /* Chennai Express-Kashmir tu main Kanyakumari.mp3 */,
+				0C94E3941C57D03D00783C87 /* Jannat-Tujhe Sochta hu.mp3 */,
+				0C94E3951C57D03D00783C87 /* Jannat - Jannatein Kahan.mp3 */,
+				0C94E3961C57D03D00783C87 /* Murder2- Hale Dil.mp3 */,
+				0C94E3971C57D03D00783C87 /* Murder-2 Aye Khuda.mp3 */,
+				0C94E3981C57D03D00783C87 /* Jeene Laga hu.mp3 */,
+				0C94E3991C57D03D00783C87 /* Rang Jo lagyo.mp3 */,
+				0C94E39A1C57D03D00783C87 /* Shanghai - Duaa.mp3 */,
+				0C94E39B1C57D03D00783C87 /* Ishq Wala love.mp3 */,
+				0C94E39C1C57D03D00783C87 /* Vele - SOTY.mp3 */,
+				0C94E39D1C57D03D00783C87 /* Pani Da Rang.mp3 */,
+				0C94E39E1C57D03D00783C87 /* Mar Jaaiyan .mp3 */,
+				0C94E39F1C57D03D00783C87 /* Soniye.mp3 */,
+				0C94E3A01C57D03D00783C87 /* Mumkin Nahi.mp3 */,
+				0C94E3831C57BE1200783C87 /* MusicPlayerViewController.h */,
+				0C94E3841C57BE1200783C87 /* MusicPlayerViewController.m */,
+			);
+			name = Entertainment;
+			sourceTree = "<group>";
+		};
+		0C94E37F1C57BDF500783C87 /* Gaming */ = {
+			isa = PBXGroup;
+			children = (
+				0C664B0A1C61077F00761760 /* backgroundgame.png */,
+				0C664B0B1C61077F00761760 /* bg.gif */,
+				0C664B0C1C61077F00761760 /* car.png */,
+				0C664B0D1C61077F00761760 /* car2.png */,
+				0C664B0E1C61077F00761760 /* fruit1.png */,
+				0C664B0F1C61077F00761760 /* fruit2.png */,
+				0C664B101C61077F00761760 /* fruit3.png */,
+				0C664B111C61077F00761760 /* fruit4.png */,
+				0C94E3801C57BE0600783C87 /* GameOverViewController.h */,
+				0C94E3811C57BE0600783C87 /* GameOverViewController.m */,
+			);
+			name = Gaming;
+			sourceTree = "<group>";
+		};
 		0CAA4E041C56B122007B27F0 = {
 			isa = PBXGroup;
 			children = (
+				0C94D8CE1C5EDF4F009AC95D /* Login */,
+				0CAA4E451C56B4C9007B27F0 /* images */,
 				0CAA4E161C56B122007B27F0 /* ITSapplication */,
 				0CAA4E351C56B122007B27F0 /* ITSapplicationTests */,
 				0CAA4E0F1C56B122007B27F0 /* Frameworks */,
@@ -101,6 +304,12 @@
 		0CAA4E0F1C56B122007B27F0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				0C97EE5F1C5F70F3003C8BBC /* MapKit.framework */,
+				0C97EE5D1C5F70E5003C8BBC /* AddressBook.framework */,
+				0C97EE5B1C5F70DC003C8BBC /* CoreLocation.framework */,
+				0C94E3BC1C57DD1B00783C87 /* AudioToolbox.framework */,
+				0C94E3BA1C57DD0A00783C87 /* MediaPlayer.framework */,
+				0C94E3B81C57DCFB00783C87 /* AVFoundation.framework */,
 				0CAA4E101C56B122007B27F0 /* Foundation.framework */,
 				0CAA4E121C56B122007B27F0 /* CoreGraphics.framework */,
 				0CAA4E141C56B122007B27F0 /* UIKit.framework */,
@@ -112,11 +321,28 @@
 		0CAA4E161C56B122007B27F0 /* ITSapplication */ = {
 			isa = PBXGroup;
 			children = (
+				0C94E37F1C57BDF500783C87 /* Gaming */,
+				0C94E37E1C57BDE800783C87 /* Entertainment */,
+				0C94E37D1C57BD6D00783C87 /* Learning Material */,
 				0CAA4E1F1C56B122007B27F0 /* AppDelegate.h */,
 				0CAA4E201C56B122007B27F0 /* AppDelegate.m */,
 				0CAA4E221C56B122007B27F0 /* Main.storyboard */,
 				0CAA4E251C56B122007B27F0 /* ViewController.h */,
 				0CAA4E261C56B122007B27F0 /* ViewController.m */,
+				0C94E3641C57AC1700783C87 /* AboutTheProjectViewController.h */,
+				0C94E3651C57AC1700783C87 /* AboutTheProjectViewController.m */,
+				0C94E36B1C57BCD000783C87 /* MenuViewController.h */,
+				0C94E36C1C57BCD000783C87 /* MenuViewController.m */,
+				0C94E36E1C57BD1F00783C87 /* LearningMaterialViewController.h */,
+				0C94E36F1C57BD1F00783C87 /* LearningMaterialViewController.m */,
+				0C94E3711C57BD3100783C87 /* CollegeLinksViewController.h */,
+				0C94E3721C57BD3100783C87 /* CollegeLinksViewController.m */,
+				0C94E3741C57BD4D00783C87 /* EntertainmentViewController.h */,
+				0C94E3751C57BD4D00783C87 /* EntertainmentViewController.m */,
+				0C94E3771C57BD5900783C87 /* GamingViewController.h */,
+				0C94E37A1C57BD6600783C87 /* SettingsViewController.h */,
+				0C94E37B1C57BD6600783C87 /* SettingsViewController.m */,
+				0C94E3781C57BD5900783C87 /* GamingViewController.m */,
 				0CAA4E281C56B122007B27F0 /* Images.xcassets */,
 				0CAA4E171C56B122007B27F0 /* Supporting Files */,
 			);
@@ -150,6 +376,20 @@
 				0CAA4E381C56B122007B27F0 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		0CAA4E451C56B4C9007B27F0 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				0C94E3671C57B76700783C87 /* background.png */,
+				0C94E3681C57B76700783C87 /* background2.jpg */,
+				0CAA4E461C56B4E3007B27F0 /* college1.jpg */,
+				0CAA4E471C56B4E3007B27F0 /* college2.jpg */,
+				0CAA4E481C56B4E3007B27F0 /* logo.png */,
+				0CAA4E491C56B4E3007B27F0 /* logo2.jpg */,
+				0CAA4E4A1C56B4E3007B27F0 /* logo3.jpg */,
+			);
+			name = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -196,7 +436,7 @@
 		0CAA4E051C56B122007B27F0 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0510;
+				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "___FULLUSERNAME___";
 				TargetAttributes = {
 					0CAA4E2D1C56B122007B27F0 = {
@@ -228,9 +468,40 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C94E3AD1C57D03D00783C87 /* Ishq Wala love.mp3 in Resources */,
 				0CAA4E291C56B122007B27F0 /* Images.xcassets in Resources */,
+				0C94E3A71C57D03D00783C87 /* Jannat - Jannatein Kahan.mp3 in Resources */,
 				0CAA4E1B1C56B122007B27F0 /* InfoPlist.strings in Resources */,
+				0C94E3B11C57D03D00783C87 /* Soniye.mp3 in Resources */,
+				0C664B181C61077F00761760 /* fruit3.png in Resources */,
+				0C94E3A51C57D03D00783C87 /* Chennai Express-Kashmir tu main Kanyakumari.mp3 in Resources */,
+				0C94E36A1C57B76700783C87 /* background2.jpg in Resources */,
+				0C664B161C61077F00761760 /* fruit1.png in Resources */,
+				0C664B171C61077F00761760 /* fruit2.png in Resources */,
+				0C94E3A61C57D03D00783C87 /* Jannat-Tujhe Sochta hu.mp3 in Resources */,
+				0C94E3AE1C57D03D00783C87 /* Vele - SOTY.mp3 in Resources */,
+				0CAA4E4D1C56B4E3007B27F0 /* logo.png in Resources */,
+				0CAA4E4E1C56B4E3007B27F0 /* logo2.jpg in Resources */,
+				0C94E3A41C57D03D00783C87 /* Bhaag Milkha Bhaag - Mastano ka jhund.mp3 in Resources */,
+				0C94E3B21C57D03D00783C87 /* Mumkin Nahi.mp3 in Resources */,
+				0CAA4E4F1C56B4E3007B27F0 /* logo3.jpg in Resources */,
+				0C94E3B71C57DBEF00783C87 /* musicLogo.png in Resources */,
+				0C664B141C61077F00761760 /* car.png in Resources */,
+				0C94E3AB1C57D03D00783C87 /* Rang Jo lagyo.mp3 in Resources */,
+				0C94E3AC1C57D03D00783C87 /* Shanghai - Duaa.mp3 in Resources */,
+				0CAA4E4C1C56B4E3007B27F0 /* college2.jpg in Resources */,
+				0C94E3A91C57D03D00783C87 /* Murder-2 Aye Khuda.mp3 in Resources */,
 				0CAA4E241C56B122007B27F0 /* Main.storyboard in Resources */,
+				0C664B121C61077F00761760 /* backgroundgame.png in Resources */,
+				0C664B191C61077F00761760 /* fruit4.png in Resources */,
+				0C94E3AF1C57D03D00783C87 /* Pani Da Rang.mp3 in Resources */,
+				0C94E3691C57B76700783C87 /* background.png in Resources */,
+				0C94E3AA1C57D03D00783C87 /* Jeene Laga hu.mp3 in Resources */,
+				0C94E3B01C57D03D00783C87 /* Mar Jaaiyan .mp3 in Resources */,
+				0C664B151C61077F00761760 /* car2.png in Resources */,
+				0C94E3A81C57D03D00783C87 /* Murder2- Hale Dil.mp3 in Resources */,
+				0C664B131C61077F00761760 /* bg.gif in Resources */,
+				0CAA4E4B1C56B4E3007B27F0 /* college1.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,9 +520,26 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				0C94E3821C57BE0600783C87 /* GameOverViewController.m in Sources */,
+				0C94E3661C57AC1700783C87 /* AboutTheProjectViewController.m in Sources */,
 				0CAA4E271C56B122007B27F0 /* ViewController.m in Sources */,
+				0C94E3791C57BD5900783C87 /* GamingViewController.m in Sources */,
+				0C94D8D41C5EDF88009AC95D /* SignUpViewController.m in Sources */,
+				0C94E3881C57BE2100783C87 /* ObjectiveCViewController.m in Sources */,
 				0CAA4E211C56B122007B27F0 /* AppDelegate.m in Sources */,
+				0C94E3911C57BEAF00783C87 /* iosViewController.m in Sources */,
+				0C94E3731C57BD3100783C87 /* CollegeLinksViewController.m in Sources */,
+				0C94D8D11C5EDF76009AC95D /* SignInViewController.m in Sources */,
 				0CAA4E1D1C56B122007B27F0 /* main.m in Sources */,
+				0C94E3761C57BD4D00783C87 /* EntertainmentViewController.m in Sources */,
+				0C94E38E1C57BE4600783C87 /* CProgrammingViewController.m in Sources */,
+				0C94D8DA1C5EE0BF009AC95D /* CoreDataHelper.m in Sources */,
+				0C94E37C1C57BD6600783C87 /* SettingsViewController.m in Sources */,
+				0C94E3701C57BD1F00783C87 /* LearningMaterialViewController.m in Sources */,
+				0C94D8DD1C5EE24A009AC95D /* Users.m in Sources */,
+				0C94D8D71C5EE094009AC95D /* DataModel.xcdatamodeld in Sources */,
+				0C94E36D1C57BCD000783C87 /* MenuViewController.m in Sources */,
+				0C94E3851C57BE1200783C87 /* MusicPlayerViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -319,6 +607,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				ENABLE_TESTABILITY = YES;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_OPTIMIZATION_LEVEL = 0;
@@ -379,6 +668,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ITSapplication/ITSapplication-Prefix.pch";
 				INFOPLIST_FILE = "ITSapplication/ITSapplication-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Anonymous.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -392,6 +682,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ITSapplication/ITSapplication-Prefix.pch";
 				INFOPLIST_FILE = "ITSapplication/ITSapplication-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Anonymous.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -413,6 +704,7 @@
 					"$(inherited)",
 				);
 				INFOPLIST_FILE = "ITSapplicationTests/ITSapplicationTests-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Anonymous.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -431,6 +723,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ITSapplication/ITSapplication-Prefix.pch";
 				INFOPLIST_FILE = "ITSapplicationTests/ITSapplicationTests-Info.plist";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.Anonymous.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
 				WRAPPER_EXTENSION = xctest;
@@ -456,6 +749,7 @@
 				0CAA4E411C56B122007B27F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		0CAA4E421C56B122007B27F0 /* Build configuration list for PBXNativeTarget "ITSapplicationTests" */ = {
 			isa = XCConfigurationList;
@@ -464,8 +758,22 @@
 				0CAA4E441C56B122007B27F0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCVersionGroup section */
+		0C94D8D51C5EE094009AC95D /* DataModel.xcdatamodeld */ = {
+			isa = XCVersionGroup;
+			children = (
+				0C94D8D61C5EE094009AC95D /* DataModel.xcdatamodel */,
+			);
+			currentVersion = 0C94D8D61C5EE094009AC95D /* DataModel.xcdatamodel */;
+			path = DataModel.xcdatamodeld;
+			sourceTree = "<group>";
+			versionGroupType = wrapper.xcdatamodel;
+		};
+/* End XCVersionGroup section */
 	};
 	rootObject = 0CAA4E051C56B122007B27F0 /* Project object */;
 }
